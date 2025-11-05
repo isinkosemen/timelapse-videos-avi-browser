@@ -21,6 +21,7 @@ Run this command in your terminal to install Homebrew first:
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
 
 ### **Step 2 — Install ffmeg to convert avi to mp4** 
