@@ -37,5 +37,6 @@ brew install ffmpeg
 ffmpeg -i timelapse1.avi -c:v libx264 -crf 23 timelapse1.mp4
 ```
 
+### **Step 4 — Update index.html file to include all mp4 videos**  
 
 
