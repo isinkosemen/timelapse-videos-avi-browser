@@ -3,15 +3,11 @@
 A lightweight, reproducible project to **capture, process, and visualize timelapse videos** — designed for **Water Kefir fermentation** research and demonstration.  
 Currently, we use a **dummy AVI timelapse video** for testing, but this workflow is ready for real kefir fermentation footage.
 
----
-
 ## Project Purpose
 
 - Capture and visualize **Water Kefir fermentation over time**.  
 - Automate **video conversion and compression** using FFmpeg.  
 - Create a simple, repeatable workflow for timelapse experiments and educational visualization.
-
----
 
 ## ⚙️ Installation & Usage — Step by Step
 
