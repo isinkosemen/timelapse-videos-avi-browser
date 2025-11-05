@@ -20,14 +20,16 @@ Run this command in your terminal to install Homebrew first:
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" ```
 
+Install ffmeg to conver avi to mp4>
 
+```bash
+brew install ffmpeg ```
 
-Install Homebrew first:
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+Convert individual avi files to mp4 under videos folder.
 
-brew install ffmpeg
+```bash
 
-ffmpeg -i timelapse1.avi -c:v libx264 -crf 23 timelapse1.mp4
+ffmpeg -i timelapse1.avi -c:v libx264 -crf 23 timelapse1.mp4 ```
 
-https://www.engr.colostate.edu/me/facil/dynamics/avis.htm
+Dummy file source: https://www.engr.colostate.edu/me/facil/dynamics/avis.htm
 
