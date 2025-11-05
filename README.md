@@ -1,6 +1,7 @@
 # Water Kefir Timelapse Processor
 
 A lightweight, reproducible project to **capture, process, and visualize timelapse videos** — designed for **Water Kefir fermentation** research and demonstration.  
+
 Currently, we use a **dummy AVI timelapse video** for testing, but this workflow is ready for real kefir fermentation footage.
 
 Dummy file source: https://www.engr.colostate.edu/me/facil/dynamics/avis.htm
